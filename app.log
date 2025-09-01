@@ -1,0 +1,40 @@
+[2025-09-01 18:46:22,374 - INFO] - Welcome to the online codegnan Banking
+[2025-09-01 18:46:42,209 - INFO] - User credenctials are 12345 and 6789
+[2025-09-01 18:46:42,209 - DEBUG] - User in login page
+[2025-09-01 18:46:42,209 - INFO] - User successfully logined
+[2025-09-01 18:46:42,212 - INFO] - ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. Transfer\n', '5. History\n', '6.exit\n')
+[2025-09-01 18:46:50,292 - INFO] - selected operation is 1. Balance
+
+[2025-09-01 18:46:50,292 - DEBUG] - User in balence page
+[2025-09-01 18:46:50,292 - INFO] - 12345 user current balence is 1000
+[2025-09-01 18:46:50,293 - DEBUG] - User in login page
+[2025-09-01 18:46:50,293 - INFO] - User successfully logined
+[2025-09-01 18:46:50,294 - INFO] - ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. Transfer\n', '5. History\n', '6.exit\n')
+[2025-09-01 18:46:55,435 - INFO] - selected operation is 1. Balance
+
+[2025-09-01 18:46:55,435 - DEBUG] - User in balence page
+[2025-09-01 18:46:55,435 - INFO] - 12345 user current balence is 1000
+[2025-09-01 18:46:55,435 - DEBUG] - User in login page
+[2025-09-01 18:46:55,435 - INFO] - User successfully logined
+[2025-09-01 18:46:55,436 - INFO] - ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. Transfer\n', '5. History\n', '6.exit\n')
+[2025-09-01 18:47:00,224 - INFO] - selected operation is 2. withdraw
+
+[2025-09-01 18:47:00,225 - DEBUG] - User in withdraw page
+[2025-09-01 18:47:04,364 - INFO] - 1000 withdraw successful and current balence is 0
+[2025-09-01 18:47:04,365 - DEBUG] - User in login page
+[2025-09-01 18:47:04,365 - INFO] - User successfully logined
+[2025-09-01 18:47:04,366 - INFO] - ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. Transfer\n', '5. History\n', '6.exit\n')
+[2025-09-01 18:47:10,641 - INFO] - selected operation is 5. History
+
+[2025-09-01 18:47:10,641 - INFO] - User in history page
+[2025-09-01 18:47:10,642 - DEBUG] - User in login page
+[2025-09-01 18:47:10,642 - INFO] - User successfully logined
+[2025-09-01 18:47:10,644 - INFO] - ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. Transfer\n', '5. History\n', '6.exit\n')
+[2025-09-01 18:47:13,968 - INFO] - selected operation is 4. Transfer
+
+[2025-09-01 18:47:13,968 - DEBUG] - User in transfer page
+[2025-09-01 18:47:39,489 - INFO] - recevier account is 123456 and amount is 1000
+[2025-09-01 18:47:39,490 - WARNING] - Insufficent amount
+[2025-09-01 18:47:39,490 - DEBUG] - User in login page
+[2025-09-01 18:47:39,490 - INFO] - User successfully logined
+[2025-09-01 18:47:39,491 - INFO] - ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. Transfer\n', '5. History\n', '6.exit\n')
